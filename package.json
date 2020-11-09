@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
-    "@react-navigation/drawer": "^5.10.7",
-    "@react-navigation/native": "^5.8.7",
-    "@react-navigation/stack": "^5.12.4",
+    "@react-navigation/drawer": "^5.11.1",
+    "@react-navigation/native": "^5.8.8",
+    "@react-navigation/stack": "^5.12.5",
     "react": "16.13.1",
     "react-native": "0.63.3",
     "react-native-fast-image": "^8.3.3",

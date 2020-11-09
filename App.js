@@ -41,7 +41,8 @@ function App() {
     <ApplicationProvider value={{hello: 'world'}}>
       <NavigationContainer>
         <Drawer.Navigator
-          drawerContent={(props) => <DrawerContent {...props} />}>
+          screenOptions={{headerShown: false}}
+          drawerContent={DrawerContent}>
           <Drawer.Screen
             name="Root"
             options={{title: 'Noticias'}}
