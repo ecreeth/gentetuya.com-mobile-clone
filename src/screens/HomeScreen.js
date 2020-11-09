@@ -1,8 +1,8 @@
 import React, {useState, useEffect, useCallback} from 'react';
+import Image from 'react-native-fast-image';
 import {
   ActivityIndicator,
   FlatList,
-  Image,
   RefreshControl,
   StyleSheet,
   Text,
@@ -20,6 +20,7 @@ const ListItem = React.memo(({item, index}) => {
     <>
       {isFirstItem ? (
         <Image
+          fallback
           style={styles.featuredImage}
           source={{uri: item.jetpack_featured_media_url}}
         />
@@ -39,6 +40,7 @@ const ListItem = React.memo(({item, index}) => {
         </View>
         {!isFirstItem ? (
           <Image
+            fallback
             style={styles.image}
             source={{uri: item.jetpack_featured_media_url}}
           />
