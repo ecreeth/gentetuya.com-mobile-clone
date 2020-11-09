@@ -30,43 +30,43 @@ function DrawerContent({navigation, ...props}) {
               icon={Radio}
               label="Radio"
               labelStyle={styles.drawerItem}
-              onPress={() => navigation.navigate('ChangeUserStatus')}
+              onPress={() => navigation.navigate('RadioScreen')}
             />
             <DrawerItem
               icon={ExternalLink}
               label="CDN TV"
               labelStyle={styles.drawerItem}
-              onPress={() => navigation.navigate('Support')}
+              onPress={() => console.log('ExternalLink')}
             />
             <DrawerItem
               icon={Videos}
               label="Videos"
               labelStyle={styles.drawerItem}
-              onPress={() => navigation.navigate('Configuration')}
+              onPress={() => navigation.navigate('VideoScreen')}
             />
             <DrawerItem
               icon={Denunciation}
               label="Denuncias"
               labelStyle={styles.drawerItem}
-              onPress={() => navigation.navigate('Configuration')}
+              onPress={() => navigation.navigate('DenunciationScreen')}
             />
             <DrawerItem
               icon={ExternalLink}
               label="Instagram"
               labelStyle={styles.drawerItem}
-              onPress={() => navigation.navigate('Configuration')}
+              onPress={() => console.log('ExternalLink')}
             />
             <DrawerItem
               icon={Contact}
               label="Contactos"
               labelStyle={styles.drawerItem}
-              onPress={() => navigation.navigate('Configuration')}
+              onPress={() => navigation.navigate('ContactScreen')}
             />
             <DrawerItem
               icon={Info}
               label="Informaci&oacute;n"
               labelStyle={styles.drawerItem}
-              onPress={() => navigation.navigate('Configuration')}
+              onPress={() => navigation.navigate('InformationScreen')}
             />
           </View>
         </View>
