@@ -15,9 +15,6 @@ import {
 import {NavigationHeader} from './src/components';
 import {ApplicationProvider} from './src/context';
 
-// const URL =
-//   "https://www.gentetuya.com/wp-json/wp/v2/posts?_fields=id,date,modified,link,title,content.rendered,author,excerpt.rendered,jetpack_featured_media_url&per_page=5&page=1";
-
 enableScreens();
 
 const Stack = createStackNavigator();
@@ -44,7 +41,6 @@ function App() {
     <ApplicationProvider value={{hello: 'world'}}>
       <NavigationContainer>
         <Drawer.Navigator
-          initialRouteName="Root"
           drawerContent={(props) => <DrawerContent {...props} />}>
           <Drawer.Screen
             name="Root"
