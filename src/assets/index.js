@@ -1,0 +1,9 @@
+export {default as Refresh} from './Refresh';
+export {default as Menu} from './Menu';
+export {default as News} from './News';
+export {default as Videos} from './Videos';
+export {default as Info} from './Info';
+export {default as Contact} from './Contact';
+export {default as Denunciation} from './Denunciation';
+export {default as ExternalLink} from './ExternalLink';
+export {default as Radio} from './Radio';
