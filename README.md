@@ -1,7 +1,7 @@
 # GenteTuya.com
 Rebuilding gentetuya.com mobile app. My open source version of the [original](https://play.google.com/store/apps/details?id=com.conduit.app_d2bd2f209c284d598dfdc8f83e58b118.app)
 
-See GIF [here](https://gfycat.com/bowedenlightenedbuckeyebutterfly)
+See [GIF](https://gfycat.com/bowedenlightenedbuckeyebutterfly). The initial APK can be found [here](https://drive.google.com/file/d/1Oh9QPKZBW3tuI6KELI1MP0FoDm5vvUBr/view?usp=sharing)
 
 <table style="padding:10px">
   <tr>
