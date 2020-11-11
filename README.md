@@ -6,10 +6,10 @@ See [GIF](https://gfycat.com/bowedenlightenedbuckeyebutterfly). The initial APK 
 <table style="padding:10px">
   <tr>
     <td> 
-        <img src="https://user-images.githubusercontent.com/20761166/98603277-2d0bb180-22b8-11eb-845f-13f1be95a6e5.png"  alt="1" width = 279px height = 496px>
+        <img src="https://user-images.githubusercontent.com/20761166/98603277-2d0bb180-22b8-11eb-845f-13f1be95a6e5.png"  alt="1" width = 279px height = 580px>
    </td>
    <td>
-      <img src="https://user-images.githubusercontent.com/20761166/98603288-3432bf80-22b8-11eb-95a4-28fcfd5e66ba.png" align="right" alt="2" width = 279px height = 496px>
+      <img src="https://user-images.githubusercontent.com/20761166/98603288-3432bf80-22b8-11eb-95a4-28fcfd5e66ba.png" align="right" alt="2" width = 279px height = 580px>
    </td>
   </tr>
 </table>
